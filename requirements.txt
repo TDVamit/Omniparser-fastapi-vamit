@@ -30,3 +30,6 @@ screeninfo
 uiautomation
 dashscope
 groq
+fastapi
+uvicorn
+pillow
